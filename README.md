@@ -1,6 +1,9 @@
 
 # Youtube Video 
-https://www.youtube.com/watch?v=ugi9lDuj9Dk
+
+[Video Linki](https://www.youtube.com/watch?v=ugi9lDuj9Dk)
+
+
 # Sorular
   
      * 1-Yıldızlarla üçgen Çizdirme
