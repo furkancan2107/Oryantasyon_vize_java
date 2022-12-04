@@ -16,4 +16,5 @@
      * 8-2 ile 100 arasindaki cift sayilar
      * 9-Ebob Ekok bulma
      * 10-Faktoriyel bulma
+     * Bonus-Taş Kağıt Makas Oyunu
      
